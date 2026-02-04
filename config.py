@@ -7,7 +7,7 @@ load_dotenv()
 
 API_ID = int(os.getenv("API_ID"))
 API_HASH = os.getenv("API_HASH")
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("8326485050:AAFO63sW-u7_X0mK1zRqPC1oBiAGanaTij8")
 OWNER_ID = int(os.getenv("OWNER_ID", None))
 OWNER_USERNAME = os.getenv("OWNER_USERNAME", "WTF_WhyMeeh")
 BOT_USERNAME = os.getenv("BOT_USERNAME", "ShrutixMusicBot")
